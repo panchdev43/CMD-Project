@@ -1,0 +1,7 @@
+.cancelButton{
+    color: black;
+}
+
+.cancelButton:hover{
+    background-color: red;
+}

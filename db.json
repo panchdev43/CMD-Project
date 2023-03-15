@@ -1,0 +1,181 @@
+{
+  "posts": [
+    {
+      "Name": "sanie",
+      "Speciality": "Dentist",
+      "Address": "san francisco",
+      "id": 2
+    },
+    {
+      "Name": "sanie",
+      "Speciality": "cardio",
+      "Address": "san francisco",
+      "id": 3
+    },
+    {
+      "Name": "jkj",
+      "Speciality": "cardio",
+      "Address": "san francisco",
+      "id": 4
+    },
+    {
+      "Name": "sanie",
+      "Speciality": "",
+      "Address": "san francisco",
+      "id": 5
+    },
+    {
+      "Name": "",
+      "Speciality": "",
+      "Address": "",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "Appointment_ID": "raja",
+      "Patient_Name": "kjgzhcd",
+      "Department_Name": "",
+      "Age": "",
+      "Appointment_Date": "",
+      "Appointment_Time": "",
+      "Place": "",
+      "DoctorAppoint": "",
+      "id": 12
+    }
+  ],
+  "profile": {
+    "Name": "sanie",
+    "Speciality": "hjghjg",
+    "Address": "san francisco"
+  },
+  "Department": [
+    {
+      "department": " Ratnesh",
+      "description": "speciealist in cardiology",
+      "status": "Inactive",
+      "id": 1
+    },
+    {
+      "department": "neurology",
+      "description": "speciealist in cardiology",
+      "status": "Active",
+      "id": 2
+    },
+    {
+      "department": " vdfgffd",
+      "description": "speciealist in cardiology",
+      "status": "Inactive",
+      "id": 3
+    },
+    {
+      "department": "ratnesh",
+      "description": "specialist in cardiology",
+      "status": "Active",
+      "id": 4
+    },
+    {
+      "department": "cardiology",
+      "description": "speciealist in cardiology",
+      "status": "Inactive",
+      "id": 5
+    },
+    {
+      "department": " gdfhghgfjf",
+      "description": "speciealist in cardiology",
+      "status": "Active",
+      "id": 6
+    },
+    {
+      "department": "wewewe",
+      "description": "wewewe",
+      "status": "",
+      "id": 7
+    }
+  ],
+  "Patient": [
+    {
+      "firstname": "nitn",
+      "lastname": "dwivedi",
+      "username": "",
+      "email": "peter@gmail.com",
+      "password": "abc@123",
+      "confirmpassword": "2332313",
+      "dob": "2021-01-19",
+      "gender": null,
+      "address": "Ward no 43",
+      "country": "United Kingdom",
+      "state": "Alaska",
+      "postalcode": "486001",
+      "phone": "05465765788",
+      "avtar": "",
+      "shortbio": "2323",
+      "status": "Active",
+      "id": 3
+    }
+  ],
+  "Doctor": [
+    {
+      "firstname": "Ratnesh ",
+      "lastname": "Dwivedi",
+      "username": "daafaf@123",
+      "email": "fgh",
+      "password": "hfhfgh",
+      "confirmpassword": "fghfghfgh",
+      "dob": "2023-01-25",
+      "address": "fghfgh",
+      "country": "USA",
+      "state": "Alabama",
+      "postalcode": "hfghgff",
+      "phone": "fghfh",
+      "avtar": "",
+      "shortbio": "fhfg",
+      "status": "InActive",
+      "id": 10,
+      "speciality": "dentist",
+      "url": "assets/img/user.jpg",
+      "photo": "assets/img/doctor-thumb-06.jpg"
+    },
+    {
+      "firstname": "muskaan ",
+      "lastname": "kazi",
+      "username": "daafaf@123",
+      "email": "fgh",
+      "password": "hfhfgh",
+      "confirmpassword": "fghfghfgh",
+      "dob": "2023-01-25",
+      "address": "fghfgh",
+      "country": "USA",
+      "state": "Alabama",
+      "postalcode": "hfghgff",
+      "phone": "fghfh",
+      "avtar": "",
+      "shortbio": "fhfg",
+      "status": "InActive",
+      "id": 10,
+      "speciality": "dentist",
+      "url": "assets/img/user.jpg",
+      "photo": "assets/img/doctor-thumb-07.jpg"
+    },
+    {
+      "firstname": "Ritesh Dwivedi",
+      "lastname": "Dwivedi",
+      "speciality": "heart Specialist",
+      "username": "",
+      "email": "ritesh@gmail.com",
+      "password": "jjgjj",
+      "confirmpassword": "fsdfg",
+      "dob": "2023-01-10",
+      "gender": null,
+      "address": " rewa mp",
+      "country": "USA",
+      "state": "Alaska",
+      "postalcode": "486001",
+      "phone": "7580887085",
+      "avtar": "",
+      "shortbio": "fdgfdg",
+      "status": "Active",
+      "id": 11
+    }
+  ]
+}
